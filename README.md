@@ -10,4 +10,4 @@ This repository contains a rigorous analytical review and mathematical replicati
 
 ## 🛠️ Tools Used
 - LaTeX for scientific typesetting and equation layout.
-- Analytical derivation and mathematical auditing.
+- Analytical derivation and mathematical auditing. 
